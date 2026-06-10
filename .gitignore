@@ -1,0 +1,23 @@
+# Environment / secrets
+.env
+.env.local
+*.local
+
+# Logs
+*.log
+logs/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Dependencies (אם יתווספו בהמשך)
+node_modules/
+__pycache__/
+*.pyc
+venv/
+.venv/
